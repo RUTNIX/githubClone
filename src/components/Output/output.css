@@ -1,0 +1,40 @@
+.mainProfile{
+    width: 35%;    
+}
+
+.user-profile{
+    width: 80%;
+    margin: 9% 0 0 21%;
+}
+
+.prof-userImg{
+    width: 70%;
+    border-radius: 500px;
+}
+.prof-userName{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.prof-userLogin{
+    font-size: 20px;
+    font-weight:300;
+}
+.prof-userBio{
+    margin-top: 5%;
+    width: 70%;
+    font-size: 16px;
+}
+
+.profile-follow{
+    cursor: pointer;
+    width: 70%;
+    margin-top: 10px;
+    display: flex;
+}
+.logoFollowers{
+    margin-top: 3px;
+    margin-right: 3px;
+    width: 12px;
+    height: 12px;
+}
